@@ -25,7 +25,7 @@
     },
     "AUTO_VIEW_STATUS": {
       "description": "Automatically view your contacts' status updates. Type 'on' to activate or 'off' to deactivate.",
-      "value": "on",
+      "value": "off",
       "required": false
     },
     "AUTO_SAVE_STATUS": {
@@ -50,7 +50,7 @@
     },
     "TIME_ZONE": {
       "description": "Specify your country's time zone (e.g., 'Africa/Nairobi'). This ensures that bot activities follow your local time.",
-      "value": "Africa/Nairobi",
+      "value": "Africa/Lagos",
       "required": false
     },
     "ANTICALL": {
@@ -60,7 +60,7 @@
     },
     "BOT_MODE": {
       "description": "Set the bot to 'private' mode to restrict access to certain users or 'public' mode for general access.",
-      "value": "public",
+      "value": "private",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -79,12 +79,12 @@
     },
     "OWNER_NAME": {
       "description": "Enter the name of the bot owner. This name will be displayed when required.",
-      "value": "France King",
+      "value": "Only_one_🥇Empire",
       "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your phone number without the '+' sign. Use your country code (e.g., '254' for Kenya).",
-      "value": "254751284190",
+      "value": "2348078582627",
       "required": false
     },
     "WARN_COUNT": {
